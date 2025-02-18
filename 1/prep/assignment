@@ -1,0 +1,4 @@
+1. Vyměňte v řetězci "Ahoj." tečku za vykřičník.
+2. Prohoďte v poli long = { 33, 44, 55, 0x66554433221100 } prvek [1] a [2].
+3. Rozložte prvek [3] z předchozího příkladu na dva inty.
+4. Přeneste hloupé uložené heslo long = 0x70617373776f7264 do řetězce a vytiskněte.
